@@ -23,6 +23,11 @@
 <a href="https://t.me/mostafaatwa7" target="_blank"><img src="https://img.shields.io/badge/-Mostafa%20Atwa-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 <a href="mailto:atwamostafa5@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Mostafa%20Atwa-0077B5?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 
+### Problem Solving Profiles :
+
+<a href="[https://www.linkedin.com/in/mostafa-atwa-807813250/](https://leetcode.com/u/atwamostafa5/)" target="_blank"><img src="https://img.shields.io/badge/-Mostafa%20Atwa-0077B5?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+<a href="[https://t.me/mostafaatwa7](https://codeforces.com/profile/Mostafa_Atwa_7)" target="_blank"><img src="https://img.shields.io/badge/-Mostafa%20Atwa-0077B5?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
+
 ### 🛠 &nbsp;Tech Stack
 ![CSharp](https://img.shields.io/badge/-CSharp-05122A?style=flat&logo=CSharp&logoColor=007ACC)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
