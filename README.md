@@ -12,7 +12,7 @@
 <img align="right" alt="Coding" width="250" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" />
 
 - 👨‍💻 I'm a backend engineer specializing in **ASP.NET**
-- 🎓 Studying Computer Science at **Zagazig University**
+- 🎓 Studying Computer Enginnering and Systems (CSE) at **Zagazig University**
 - 💡 Always curious to explore new technologies and solve complex problems
 - 🧠 Passionate about **clean code**, **problem-solving**, and **software architecture**
 - ☕ Coffee fuels my code — morning and night!
@@ -64,6 +64,7 @@
 ![LINQ](https://img.shields.io/badge/-LINQ-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![OS](https://img.shields.io/badge/-OS-4479A1?style=flat-square&logo=OS&logoColor=white)
 
 ---
 
