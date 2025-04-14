@@ -24,9 +24,11 @@
 <a href="https://www.linkedin.com/in/mostafa-atwa-807813250/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Mostafa%20Atwa-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+<br>
 <a href="https://t.me/mostafaatwa7" target="_blank">
   <img src="https://img.shields.io/badge/Telegram-Mostafa%20Atwa-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
+<br>
 <a href="mailto:atwamostafa5@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-Mostafa%20Atwa-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
@@ -38,6 +40,7 @@
 <a href="https://leetcode.com/u/atwamostafa5/" target="_blank">
   <img src="https://img.shields.io/badge/LeetCode-Mostafa%20Atwa-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
+<br>
 <a href="https://codeforces.com/profile/Mostafa_Atwa_7" target="_blank">
   <img src="https://img.shields.io/badge/Codeforces-Mostafa%20Atwa-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
 </a>
