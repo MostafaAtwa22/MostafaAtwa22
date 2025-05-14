@@ -15,8 +15,6 @@
 - 🎓 Studying Computer Enginnering and Systems (CSE) at **Zagazig University**
 - 💡 Always curious to explore new technologies and solve complex problems
 - 🧠 Passionate about **clean code**, **problem-solving**, and **software architecture**
-- ☕ Coffee fuels my code — morning and night!
-
 ---
 
 ### 📫 Connect with Me
