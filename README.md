@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Mostafa Atwa</h1>
-<h3 align="center">🚀 Full-stack Developer | ASP.NET Core Enthusiast | Angular Enthusiast | Problem Solver</h3>
+<h3 align="center">🚀 Full-Stack Developer | ASP.NET Core & Angular | Clean Code Advocate | Problem Solver</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7g/giphy.gif" width="35">
   <br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Backend+Engineer+%7C+ASP.NET+Core+Developer;Clean+Code+Advocate;Problem+Solver+%282000%2B+challenges+solved%29;Always+Learning+%26+Building+Impactful+Projects" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+(ASP.NET+Core+%26+Angular);Backend+Engineer+%7C+Web+API+%7C+EF+Core;Frontend+Developer+%7C+Angular+%7C+TypeScript;Clean+Code+Advocate+%26+System+Design+Learner;Problem+Solver+%282000%2B+Challenges+Solved%29;Always+Learning+%26+Building+Impactful+Projects" alt="Typing SVG" />
 </p>
+
 
 ---
 
