@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mostafa Atwa</h1>
-<h3 align="center">🚀 Backend Developer | ASP.NET Core Enthusiast | Problem Solver</h3>
+<h3 align="center">🚀 Full-stack Developer | ASP.NET Core Enthusiast | Angular Enthusiast | Problem Solver</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7g/giphy.gif" width="35">
@@ -10,7 +10,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 🔭 Currently working on **Ecommerce Web Apps & APIs**  
+- 🔭 Currently working on **Graduation project**  
 - 🎓 Senior **Computer Engineering and Systems Student** at Zagazig University  
 - 💡 Skilled in **ASP.NET Core, Web API, EF Core, LINQ, SignalR, Angular**  
 - 🧠 Strong in **Data Structures, Algorithms, and Clean Code practices**  
