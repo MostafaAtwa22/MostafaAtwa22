@@ -48,7 +48,15 @@
 ---
 
 ### 🏆 Achievements
-- 🥇 Solved **2000+ problems** on [LeetCode](https://leetcode.com/u/atwamostafa5/) & [Codeforces](https://codeforces.com/profile/Mostafa_Atwa_7)  
+
+- 🥇 Solved **2000+ problems** on  
+  <a href="https://leetcode.com/u/atwamostafa5/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+  <a href="https://codeforces.com/profile/Mostafa_Atwa_7" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
+
 - 🏆 **ECPC Finalist 2024** – top competitive programming contest in Egypt  
 
 ---
